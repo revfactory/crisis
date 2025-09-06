@@ -1,0 +1,125 @@
+================================================================================
+AI 비디오 생성 프롬프트 - 클라이밋 크라이시스 (Climate Crisis)
+================================================================================
+
+각 시나리오별 비디오 생성을 위한 상세 프롬프트입니다.
+추천 AI 비디오 생성 도구: Runway, Pika Labs, Stable Video Diffusion 등
+
+================================================================================
+
+[비디오 1: 역대급 폭우와 태풍]
+--------------------------------------------------------------------------------
+메인 프롬프트:
+Cinematic disaster movie scene, extreme heavy rainfall and typhoon hitting modern Korean city, torrential downpour with 300mm rain per day, flooded urban streets with cars partially submerged, people struggling with umbrellas in strong wind, dark storm clouds, lightning strikes, emergency vehicles with flashing lights, water rushing through streets like rivers, dramatic aerial view of flooded city, photorealistic, 8K quality, cinematic lighting, dramatic atmosphere
+
+스타일 키워드:
+disaster movie aesthetic, Christopher Nolan style, dark and moody, high contrast, cinematic color grading, anamorphic lens, dramatic weather effects
+
+카메라 무브먼트:
+Slow aerial pan over flooded city → zoom into street level chaos → tracking shot following emergency responders
+
+오디오 참고:
+Heavy rain, thunder, emergency sirens, wind howling, people shouting
+
+================================================================================
+
+[비디오 2: 45일간의 폭염]
+--------------------------------------------------------------------------------
+메인 프롬프트:
+Apocalyptic heatwave scene in Korean urban environment, temperature display showing 45°C, heat shimmer and mirages on asphalt roads, people seeking shade under buildings, melting road surfaces, exhausted citizens with portable fans, dry cracked earth in parks, wilting trees and plants, sun-scorched cityscape with reddish-orange tint, empty streets during peak heat hours, elderly people being helped by paramedics, ultra-realistic, cinematic quality, oppressive atmosphere
+
+스타일 키워드:
+Mad Max Fury Road color palette, orange and red dominant, high saturation heat effects, lens flares, documentary style handheld camera
+
+카메라 무브먼트:
+Time-lapse of sun movement → close-up of thermometer rising → wide shot of empty streets → handheld following paramedics
+
+오디오 참고:
+Cicadas buzzing intensely, air conditioner hum, ambulance sirens, crackling dry sounds
+
+================================================================================
+
+[비디오 3: 최악의 산사태]
+--------------------------------------------------------------------------------
+메인 프롬프트:
+Catastrophic landslide in Korean mountainous residential area, heavy rain triggering massive mudslide, houses at the foot of mountain being engulfed by mud and debris, trees uprooting and tumbling down, rescue helicopters hovering above, emergency responders in orange suits evacuating residents, mud and rocks flowing like avalanche, destroyed roads and infrastructure, dramatic lighting through storm clouds, photorealistic destruction, cinematic disaster scene
+
+스타일 키워드:
+Natural disaster documentary style, gritty realism, handheld camera work, desaturated colors, high detail debris
+
+카메라 무브먼트:
+Wide establishing shot of mountain → sudden landslide trigger → follow the destruction path → aerial rescue operation
+
+오디오 참고:
+Rumbling earth, cracking trees, emergency helicopters, evacuation announcements, rain
+
+================================================================================
+
+[비디오 4: 슈퍼 태풍의 습격]
+--------------------------------------------------------------------------------
+메인 프롬프트:
+Category 5 super typhoon devastating Korean coastal city, wind speed 70m/s, massive storm surge flooding coastal areas, buildings swaying dangerously, roofs being torn off, debris flying through air like missiles, palm trees bent horizontal, cargo containers tumbling, waves crashing over seawalls, emergency evacuation in progress, dark spiral clouds overhead, cinematic disaster movie quality, extreme weather visualization
+
+스타일 키워드:
+The Day After Tomorrow aesthetic, blue-grey color palette, high-speed camera effects, dramatic lighting, epic scale
+
+카메라 무브먼트:
+Satellite view of typhoon → descent into eye wall → ground level destruction → POV of debris flying
+
+오디오 참고:
+Extreme wind roar, metal creaking, glass shattering, emergency broadcasts, ocean waves
+
+================================================================================
+
+[비디오 5: 대도시 침수 위기]
+--------------------------------------------------------------------------------
+메인 프롬프트:
+Major metropolitan flooding crisis in Seoul, subway stations completely flooded with water cascading down stairs like waterfalls, underground shopping malls submerged, cars floating in underground parking lots, people evacuating through waist-deep water, emergency responders using boats in city streets, traffic lights still working underwater, surreal urban flood scene, cinematic disaster atmosphere, photorealistic water simulation
+
+스타일 키워드:
+Bong Joon-ho's Parasite flood scene style, urban disaster aesthetic, dark and chaotic, handheld documentary feel
+
+카메라 무브먼트:
+Descend into flooded subway → track through underground mall → emerge to street level flooding → aerial view of submerged city
+
+오디오 참고:
+Rushing water, emergency alarms, echoing underground sounds, evacuation announcements
+
+================================================================================
+
+[비디오 6: 극심한 가뭄]
+--------------------------------------------------------------------------------
+메인 프롬프트:
+Severe drought in Korean countryside and city, completely dried up Han River revealing cracked riverbed, dead fish on dry ground, withered crops in agricultural areas, dust storms in urban areas, people queuing for water rations, empty reservoirs with visible water marks on walls, brown lawns and dead trees in parks, apocalyptic drought conditions, documentary style footage, harsh sunlight creating long shadows
+
+스타일 키워드:
+Interstellar dust bowl scenes, sepia and brown tones, documentary realism, harsh lighting, dusty atmosphere
+
+카메라 무브먼트:
+Aerial view of dried river → close-up of cracked earth → pan across dead farmland → people waiting for water
+
+오디오 참고:
+Wind blowing dust, creaking dry wood, concerned voices, water truck arrival
+
+================================================================================
+
+[추가 제작 팁]
+--------------------------------------------------------------------------------
+1. 각 비디오는 30-60초 길이로 제작
+2. 시작은 평온한 일상 → 재난 발생 → 클라이맥스 구조
+3. 한국적 요소 포함 (한글 간판, 아파트, 한국 차량 등)
+4. 실제 뉴스 영상 느낌과 영화적 연출 균형
+5. 각 시나리오별 위험도를 시각적으로 명확히 표현
+6. 희망적 메시지 (구조대 활동 등) 일부 포함
+7. 16:9 비율, 최소 1080p, 가능하면 4K 해상도
+
+================================================================================
+
+[음악 및 사운드 레퍼런스]
+--------------------------------------------------------------------------------
+- Hans Zimmer - Interstellar, Dunkirk 사운드트랙
+- 재난 영화 효과음 라이브러리 활용
+- 긴급 재난 방송 알림음 샘플링
+- 각 재난별 특징적 환경음 강조
+
+================================================================================
